@@ -1,0 +1,6 @@
+﻿namespace GraphApiMVC
+{
+    public class TextFile
+    {
+    }
+}
